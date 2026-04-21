@@ -1,0 +1,19 @@
+*HR Analytics Dashboard - Employee Attrition Analysis*
+
+## *Project Overview* 
+The primary objective of this HR Analytics Dashboard is to identify the underlying factors contributing to employee attrition. By analyzing a dataset of over 1,400 employees, this project uncovers hidden patterns related to job satisfaction, work-life balance, and salary hikes. 📉
+The dashboard serves as a strategic tool for HR professionals to:
+Identify high-risk departments with rising turnover rates.
+Understand the demographic spread of attrition (e.g., Age and Gender). 
+Make data-driven decisions to improve employee retention and reduce hiring costs
+
+## *Key Insights & Features* 💡
+Attrition Analysis by Demographics: Breaks down employee turnover by Gender and Age Group to identify which groups are most likely to leave. 👥
+Departmental Trends: Highlights which departments (like R&D, Sales, or HR) have the highest attrition rates, allowing for targeted retention strategies. 🏢
+Job Satisfaction & Performance: Correlates attrition with job satisfaction levels and performance ratings to see if "high performers" are the ones leaving. 📉
+Interactive Visualizations: Features a variety of charts for easy data exploration:
+Donut Charts for quick gender and education field distribution. 🍩
+Stacked Bar Charts for department-wise attrition comparison. 📊
+KPI Cards for instant views of Total Employees, Attrition Count, and Attrition Rate.
+## *Dashboard Preview* 🖼️
+<img width="1339" height="712" alt="Screenshot 2026-03-09 124416" src="https://github.com/user-attachments/assets/f8f7c990-b513-444d-acb8-321ac4cf65a3" />
